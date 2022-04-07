@@ -17,7 +17,7 @@ Decorative Art:
 Cricut: An electric cutting machine for making arts and crafts easier and more efficiently, it can be used to cut, craft, and custom art
 
 
-PT. B (Future Innovations)
+PT. B (Innovations in the Future)
 Mind Art:
 A device that allows you to create whatever is on your mind without having to physically show it using paper 
 In the shape of a headset that can be connected to another technology (using Bluetooth)
