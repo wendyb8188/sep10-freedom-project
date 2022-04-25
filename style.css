@@ -25,8 +25,8 @@ a, h3, p, li {
     font-size: 180px;
     font-family: 'Carter One', cursive;;
     background: -webkit-linear-gradient(45deg, #FB6002, #F72B83, #986CE9, white);
-    background-clip: text;
-    color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 #past-innovations {
