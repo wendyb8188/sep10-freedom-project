@@ -5,7 +5,7 @@
 }
 
 body {
-    background: -webkit-linear-gradient(45deg, #986CE9, #FB6002, #FFB032, #25C2FF, #F72B83, #2ec4b6);;
+    background: linear-gradient(45deg, #986CE9, #FB6002, #FFB032, #25C2FF, #F72B83, #2ec4b6);;
 }
 
 #home {
