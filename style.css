@@ -4,8 +4,29 @@
     margin-bottom: 400px;
 }
 
+body {
+    background: -webkit-linear-gradient(45deg, #986CE9, #FB6002, #FFB032, #25C2FF, #F72B83, #2ec4b6);;
+}
+
+#home {
+    font-family: 'Carter One', cursive;;
+}
+
+h1, h5 {
+    font-family: 'Carter One', cursive;;
+}
+
+a, h3, p, li {
+    font-family: 'Acme', sans-serif;;
+}
+
+
 #art {
     font-size: 180px;
+    font-family: 'Carter One', cursive;;
+    background: -webkit-linear-gradient(45deg, #FB6002, #F72B83, #986CE9, white);
+    background-clip: text;
+    color: transparent;
 }
 
 #past-innovations {
