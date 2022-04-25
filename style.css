@@ -1,7 +1,11 @@
 .carousel-caption {
-    display: block;
-    text-align: center;
-    margin-bottom: 400px;
+    height: 100%; 
+    display: flex; 
+    align-items: center;
+}
+
+#frozen {
+    height: 25rem;
 }
 
 body {
