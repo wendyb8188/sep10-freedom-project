@@ -40,18 +40,31 @@ a, h3, p, li {
 #past-innovations {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
 #visual-art {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 #future-innovations {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 .col-lg-6, col-md-6 {
     margin-bottom: 20px;
+}
+
+#overview {
+    margin-top: 15px;
+}
+
+#last4 {
+    margin-bottom: 5rem;
 }
