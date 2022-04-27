@@ -35,6 +35,7 @@ a, h3, p, li {
     background: -webkit-linear-gradient(45deg, #FB6002, #F72B83, #986CE9, white);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    
 }
 
 #past-innovations {
@@ -90,4 +91,9 @@ a, h3, p, li {
 
 .card {
     border: solid 2px black;
+}
+
+.bi-palette {
+    font-size: 20px;
+    margin-right: 3px;
 }
