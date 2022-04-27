@@ -41,6 +41,11 @@ a, h3, p, li {
     display: flex;
     justify-content: center;
     margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 13px;
+    background-color: white;
+    width: 50%;
 }
 
 #visual-art {
@@ -55,6 +60,11 @@ a, h3, p, li {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 30px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 13px;
+    background-color: white;
+    width: 50%;
 }
 
 .col-lg-6, col-md-6 {
@@ -63,6 +73,7 @@ a, h3, p, li {
 
 #overview {
     margin-top: 15px;
+    margin-bottom: 8px;
 }
 
 #last4 {
