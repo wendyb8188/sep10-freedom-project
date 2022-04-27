@@ -53,6 +53,7 @@ a, h3, p, li {
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 30px;
+    text-decoration: underline overline white;
 }
 
 #future-innovations {
@@ -74,8 +75,17 @@ a, h3, p, li {
 #overview {
     margin-top: 15px;
     margin-bottom: 8px;
+    border-left: 8px solid white;
 }
 
 #last4 {
     margin-bottom: 3rem;
+}
+
+#commercial-art {
+    text-decoration: underline overline white;
+}
+
+#decorative-art {
+    text-decoration: underline overline white;
 }
