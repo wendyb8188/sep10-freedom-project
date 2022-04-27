@@ -45,7 +45,6 @@ a, h3, p, li {
     border-radius: 15px;
     padding: 13px;
     background-color: white;
-    width: 50%;
 }
 
 #visual-art {
@@ -65,7 +64,6 @@ a, h3, p, li {
     border-radius: 15px;
     padding: 13px;
     background-color: white;
-    width: 50%;
 }
 
 .col-lg-6, col-md-6 {
@@ -88,4 +86,8 @@ a, h3, p, li {
 
 #decorative-art {
     text-decoration: underline overline white;
+}
+
+.card {
+    border: solid 2px black;
 }
