@@ -13,6 +13,7 @@ body {
 .carousel-caption {
     height: 60%;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 
@@ -35,16 +36,9 @@ a, h3, p, li {
 }
 
 #overview {
-    display: flex;
-    justify-content: flex-start;
-    margin-top: 15px;
-    margin-bottom: 8px;
-    /*border-left: 8px solid white;*/
-    border: 2px solid black;
-    border-radius: 15px;
-    padding: 13px;
-    background-color: white;
-    width: fit-content;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    border-left: 8px solid white;
 }
 
 #last4 {
@@ -103,3 +97,17 @@ a, h3, p, li {
     margin-bottom: 20px;
 }
 
+.nav-link {
+    font-size: 20px;
+}
+
+.bi-palette, .navbar-brand {
+    font-size:25px;
+}
+
+.card-text {
+    font-size: 18px;
+}
+.card-title {
+        font-size: 25px;
+}
