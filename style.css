@@ -36,7 +36,7 @@ a, h3, p, li {
 
 #overview {
     display: flex;
-    flex-direction: row;
+    justify-content: flex-start;
     margin-top: 15px;
     margin-bottom: 8px;
     /*border-left: 8px solid white;*/
@@ -102,3 +102,4 @@ a, h3, p, li {
 .col-lg-6, col-md-6 {
     margin-bottom: 20px;
 }
+
