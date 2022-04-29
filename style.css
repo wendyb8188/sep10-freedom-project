@@ -1,41 +1,81 @@
-.carousel-caption {
-    height: 60%; 
-    display: flex; 
-    align-items: center;
-}
-
-.nav-link {
-    font-size: 20px;
-}
-
-#frozen {
-    height: 25rem;
-}
-
 body {
-    background: linear-gradient(45deg, #986CE9, #FB6002, #FFB032, #25C2FF, #F72B83, #2ec4b6);;
+    background: -webkit-linear-gradient(45deg, #986CE9, #FB6002, #FFB032, #25C2FF, #F72B83, #2ec4b6);;
 }
-
-#home {
-    font-family: 'Carter One', cursive;;
-}
-
-h1, h5 {
-    font-family: 'Carter One', cursive;;
-}
-
-a, h3, p, li {
-    font-family: 'Acme', sans-serif;;
-}
-
 
 #art {
     font-size: 180px;
-    font-family: 'Carter One', cursive;;
+    font-family: 'Carter One', cursive;
     background: -webkit-linear-gradient(45deg, #FB6002, #F72B83, #986CE9, white);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    
+}
+
+.carousel-caption {
+    height: 60%;
+    display: flex;
+    align-items: center;
+}
+
+h1, h5 {
+    font-family: 'Carter One', cursive;
+}
+
+a, h3, p, li {
+    font-family: 'Acme', sans-serif;
+}
+
+#visual-art {
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 13px;
+    background-color: white;
+    width: fit-content;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#overview {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    /*border-left: 8px solid white;*/
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 13px;
+    background-color: white;
+    width: fit-content;
+}
+
+#last4 {
+    margin-bottom: 3rem;
+}
+
+#commercial-art {
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 13px;
+    background-color: white;
+    width: fit-content;
+    margin-bottom: 20px;
+}
+
+#decorative-art {
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 13px;
+    background-color: white;
+    width: fit-content;
+    margin-bottom: 20px;
+}
+
+.card {
+    border: solid 2px black;
+}
+
+.bi-palette {
+    font-size: 20px;
+    margin-right: 3px;
 }
 
 #past-innovations {
@@ -48,14 +88,6 @@ a, h3, p, li {
     background-color: white;
 }
 
-#visual-art {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 30px;
-    text-decoration: underline overline white;
-}
-
 #future-innovations {
     display: flex;
     justify-content: center;
@@ -65,35 +97,4 @@ a, h3, p, li {
     border-radius: 15px;
     padding: 13px;
     background-color: white;
-}
-
-.col-lg-6, col-md-6 {
-    margin-bottom: 20px;
-}
-
-#overview {
-    margin-top: 15px;
-    margin-bottom: 8px;
-    border-left: 8px solid white;
-}
-
-#last4 {
-    margin-bottom: 3rem;
-}
-
-#commercial-art {
-    text-decoration: underline overline white;
-}
-
-#decorative-art {
-    text-decoration: underline overline white;
-}
-
-.card {
-    border: solid 2px black;
-}
-
-.bi-palette {
-    font-size: 20px;
-    margin-right: 3px;
 }
