@@ -69,7 +69,7 @@ a, h3, p, li {
 
 .bi-palette {
     font-size: 20px;
-    margin-right: 3px;
+    margin-left: 5px;
 }
 
 #past-innovations {
@@ -99,10 +99,25 @@ a, h3, p, li {
 
 .nav-link {
     font-size: 20px;
+    margin-right: 2rem;
 }
 
-.bi-palette, .navbar-brand {
+@media (min-width: 992px) {
+    .collapse {
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+}
+
+.bi-palette{
     font-size:25px;
+    margin-left: 1.5rem;
+}
+
+.navbar-brand {
+    font-size:25px;
+    margin-left: 5px;  
 }
 
 .card-text {
