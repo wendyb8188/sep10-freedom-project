@@ -120,9 +120,13 @@ a, h3, p, li {
     margin-left: 5px;  
 }
 
-.card-text {
+.card-text, .ul-font {
     font-size: 18px;
 }
 .card-title {
     font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 7px;
 }
