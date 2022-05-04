@@ -1,4 +1,4 @@
-Content (overview): Art has been around for longer than you. You see art everyday, whether you realize it or not. Art can be connected to everything from a drawing you drew to a design on your clothing. It can be connected to everything in humanity to innovations in technology! Read on to learn a little more about the BIG world of art and technology. 
+Content (overview): Art has been around for longer than you. You see art everyday, whether you realize it or not. Art can be connected to everything from a drawing you drew to a design on your clothing. It can be connected to everything in humanity to innovations in technology! Art innovations have been seen in history for centuries, only back then, ideas were limited due to lack of information and resources. Today the possibilities are endless for creating innovative art designs using technology. Read on to learn a little more about the BIG world of art and technology, along with glimpse of innovative solutions/ideas for the future.
 
 PT. A (Hardware/Software- Innovations in the past)
 Visual Art: 
